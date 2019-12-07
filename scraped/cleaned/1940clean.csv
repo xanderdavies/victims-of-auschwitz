@@ -1,0 +1,725 @@
+birth,location,date
+1940,"Amsterdam, The Netherlands",1940.01.01
+1940,"Amsterdam, The Netherlands",1940.01.01
+1940,"Amsterdam, The Netherlands",1940.01.01
+1910,"Amsterdam, The Netherlands",1910.01.01
+1908,"Amsterdam, The Netherlands",1908.01.01
+1940,"Sosnowiec, Poland",1940.01.01
+1929,"Sosnowiec, Poland",1929.01.01
+1915,"Sosnowiec, Poland",1915.01.01
+1915,"Sosnowiec, Poland",1915.01.01
+1923,"Sosnowiec, Poland",1923.01.01
+1918,"Sosnowiec, Poland",1918.01.01
+1893,"Sosnowiec, Poland",1893.01.01
+1903,"Sosnowiec, Poland",1903.01.01
+1914,"Sosnowiec, Poland",1914.01.01
+1909,"Sosnowiec, Poland",1909.01.01
+1909,"Sosnowiec, Poland",1909.01.01
+1916,"Sosnowiec, Poland",1916.01.01
+1924,"Sosnowiec, Poland",1924.01.01
+1884,"Sosnowiec, Poland",1884.01.01
+1904,"Sosnowiec, Poland",1904.01.01
+1919,"Sosnowiec, Poland",1919.01.01
+1940,"Szekesfehervar, Hungary",1940.01.01
+1940,"Solotvina, Czechoslovakia",1940.01.01
+1940,"Juelich, Germany",1940.01.01
+1940,"Feheryarmat, Hungary",1940.01.01
+1922,"Lodz, Poland",1922.01.01
+1897,"Lodz, Poland",1897.01.01
+1897,"Lodz, Poland",1897.01.01
+1880,"Lodz, Poland",1880.01.01
+1880,"Lodz, Poland",1880.01.01
+1880,"Lodz, Poland",1880.01.01
+1915,"Lodz, Poland",1915.01.01
+1923,"Lodz, Poland",1923.01.01
+1895,"Lodz, Poland",1895.01.01
+1895,"Lodz, Poland",1895.01.01
+1910,"Lodz, Poland",1910.01.01
+1910,"Lodz, Poland",1910.01.01
+1910,"Lodz, Poland",1910.01.01
+1917,"Lodz, Poland",1917.01.01
+1888,"Lodz, Poland",1888.01.01
+1900,"Lodz, Poland",1900.01.01
+1900,"Lodz, Poland",1900.01.01
+1900,"Lodz, Poland",1900.01.01
+1889,"Lodz, Poland",1889.01.01
+1918,"Lodz, Poland",1918.01.01
+1935,"Lodz, Poland",1935.01.01
+1893,"Lodz, Poland",1893.01.01
+1914,"Lodz, Poland",1914.01.01
+1905,"Lodz, Poland",1905.01.01
+1909,"Lodz, Poland",1909.01.01
+1894,"Lodz, Poland",1894.01.01
+1916,"Lodz, Poland",1916.01.01
+1898,"Lodz, Poland",1898.01.01
+1875,"Lodz, Poland",1875.01.01
+1925,"Lodz, Poland",1925.01.01
+1913,"Lodz, Poland",1913.01.01
+1884,"Lodz, Poland",1884.01.01
+1869,"Lodz, Poland",1869.01.01
+1934,"Lodz, Poland",1934.01.01
+1922,"Monostor, Romania",1922.01.01
+1922,"Nowy Korczyn, Poland",1922.01.01
+1900,"Nowy Korczyn, Poland",1900.01.01
+1903,"Nowy Korczyn, Poland",1903.01.01
+1903,"Nowy Korczyn, Poland",1903.01.01
+1905,"Nowy Korczyn, Poland",1905.01.01
+1905,"Nowy Korczyn, Poland",1905.01.01
+1901,"Nowy Korczyn, Poland",1901.01.01
+1890,"Nowy Korczyn, Poland",1890.01.01
+1916,"Nowy Korczyn, Poland",1916.01.01
+1902,"Nowy Korczyn, Poland",1902.01.01
+1896,"Nowy Korczyn, Poland",1896.01.01
+1898,"Nowy Korczyn, Poland",1898.01.01
+1920,"Nowy Korczyn, Poland",1920.01.01
+1922,"Nowy Dwor, Poland",1922.01.01
+1922,"Lipno, Poland",1922.01.01
+1917,"Lipno, Poland",1917.01.01
+1890,"Lipno, Poland",1890.01.01
+1924,"Lipno, Poland",1924.01.01
+1922,"Radom, Poland",1922.01.01
+1918,"Radom, Poland",1918.01.01
+1892,"Radom, Poland",1892.01.01
+1901,"Radom, Poland",1901.01.01
+1901,"Radom, Poland",1901.01.01
+1896,"Radom, Poland",1896.01.01
+1896,"Radom, Poland",1896.01.01
+1939,"Radom, Poland",1939.01.01
+1922,"Cluj, Romania",1922.01.01
+1922,"Aleksander, Poland",1922.01.01
+1924,"Aleksander, Poland",1924.01.01
+1913,"Aleksander, Poland",1913.01.01
+1934,"Aleksander, Poland",1934.01.01
+1922,Poland,1922.01.01
+1885,Poland,1885.01.01
+1895,Poland,1895.01.01
+1900,Poland,1900.01.01
+1900,Poland,1900.01.01
+1900,Poland,1900.01.01
+1889,Poland,1889.01.01
+1903,Poland,1903.01.01
+1887,Poland,1887.01.01
+1890,Poland,1890.01.01
+1890,Poland,1890.01.01
+1912,Poland,1912.01.01
+1916,Poland,1916.01.01
+1916,Poland,1916.01.01
+1932,Poland,1932.01.01
+1896,Poland,1896.01.01
+1904,Poland,1904.01.01
+1907,Poland,1907.01.01
+1886,Poland,1886.01.01
+1937,Poland,1937.01.01
+1922,"Miechow, Poland",1922.01.01
+1915,"Miechow, Poland",1915.01.01
+1872,"Miechow, Poland",1872.01.01
+1897,"Krakow, Poland",1897.01.01
+1880,"Krakow, Poland",1880.01.01
+1910,"Krakow, Poland",1910.01.01
+1910,"Krakow, Poland",1910.01.01
+1892,"Krakow, Poland",1892.01.01
+1893,"Krakow, Poland",1893.01.01
+1893,"Krakow, Poland",1893.01.01
+1909,"Krakow, Poland",1909.01.01
+1894,"Krakow, Poland",1894.01.01
+1916,"Krakow, Poland",1916.01.01
+1924,"Krakow, Poland",1924.01.01
+1913,"Krakow, Poland",1913.01.01
+1906,"Krakow, Poland",1906.01.01
+1886,"Krakow, Poland",1886.01.01
+1897,"Dabrowa Mala, Poland",1897.01.01
+1897,"Kutno, Poland",1897.01.01
+1895,"Kutno, Poland",1895.01.01
+1897,"Deutschkreuz, Austria",1897.01.01
+1897,"Deutschkreuz, Austria",1897.01.01
+1895,"Deutschkreuz, Austria",1895.01.01
+1900,"Deutschkreuz, Austria",1900.01.01
+1892,"Deutschkreuz, Austria",1892.01.01
+1899,"Deutschkreuz, Austria",1899.01.01
+1897,"Katowice, Poland",1897.01.01
+1929,"Katowice, Poland",1929.01.01
+1928,"Katowice, Poland",1928.01.01
+1928,"Katowice, Poland",1928.01.01
+1884,"Katowice, Poland",1884.01.01
+1934,"Katowice, Poland",1934.01.01
+1897,"Klausberg, Germany",1897.01.01
+1897,"Sieu, Romania",1897.01.01
+1897,"Warszawa, Poland",1897.01.01
+1936,"Warszawa, Poland",1936.01.01
+1923,"Warszawa, Poland",1923.01.01
+1930,"Warszawa, Poland",1930.01.01
+1931,"Warszawa, Poland",1931.01.01
+1900,"Warszawa, Poland",1900.01.01
+1900,"Warszawa, Poland",1900.01.01
+1900,"Warszawa, Poland",1900.01.01
+1933,"Warszawa, Poland",1933.01.01
+1928,"Warszawa, Poland",1928.01.01
+1932,"Warszawa, Poland",1932.01.01
+1899,"Warszawa, Poland",1899.01.01
+1904,"Warszawa, Poland",1904.01.01
+1919,"Warszawa, Poland",1919.01.01
+1897,"Burg, Germany",1897.01.01
+1895,"Burg, Germany",1895.01.01
+1924,"Burg, Germany",1924.01.01
+1897,"Wien, Austria",1897.01.01
+1876,"Wien, Austria",1876.01.01
+1929,"Wien, Austria",1929.01.01
+1888,"Wien, Austria",1888.01.01
+1888,"Wien, Austria",1888.01.01
+1900,"Wien, Austria",1900.01.01
+1891,"Wien, Austria",1891.01.01
+1881,"Wien, Austria",1881.01.01
+1881,"Wien, Austria",1881.01.01
+1893,"Wien, Austria",1893.01.01
+1893,"Wien, Austria",1893.01.01
+1890,"Wien, Austria",1890.01.01
+1890,"Wien, Austria",1890.01.01
+1878,"Wien, Austria",1878.01.01
+1882,"Wien, Austria",1882.01.01
+1894,"Wien, Austria",1894.01.01
+1896,"Wien, Austria",1896.01.01
+1898,"Wien, Austria",1898.01.01
+1875,"Wien, Austria",1875.01.01
+1884,"Wien, Austria",1884.01.01
+1884,"Wien, Austria",1884.01.01
+1904,"Wien, Austria",1904.01.01
+1879,"Wien, Austria",1879.01.01
+1920,"Wien, Austria",1920.01.01
+1858,"Wien, Austria",1858.01.01
+1897,Hungary,1897.01.01
+1900,Hungary,1900.01.01
+1901,Hungary,1901.01.01
+1901,Hungary,1901.01.01
+1897,"Bratislava, Czechoslovakia",1897.01.01
+1885,"Bratislava, Czechoslovakia",1885.01.01
+1895,"Bratislava, Czechoslovakia",1895.01.01
+1900,"Bratislava, Czechoslovakia",1900.01.01
+1892,"Bratislava, Czechoslovakia",1892.01.01
+1905,"Bratislava, Czechoslovakia",1905.01.01
+1890,"Bratislava, Czechoslovakia",1890.01.01
+1878,"Bratislava, Czechoslovakia",1878.01.01
+1909,"Bratislava, Czechoslovakia",1909.01.01
+1924,"Bratislava, Czechoslovakia",1924.01.01
+1911,"Bratislava, Czechoslovakia",1911.01.01
+1913,"Bratislava, Czechoslovakia",1913.01.01
+1907,"Bratislava, Czechoslovakia",1907.01.01
+1897,"Janov, Poland",1897.01.01
+1908,"Janov, Poland",1908.01.01
+1876,"Ujpest, Hungary",1876.01.01
+1911,"Ujpest, Hungary",1911.01.01
+1876,"Breslau, Germany",1876.01.01
+1878,"Breslau, Germany",1878.01.01
+1909,"Breslau, Germany",1909.01.01
+1882,"Breslau, Germany",1882.01.01
+1911,"Breslau, Germany",1911.01.01
+1899,"Breslau, Germany",1899.01.01
+1864,"Breslau, Germany",1864.01.01
+1934,"Breslau, Germany",1934.01.01
+1876,"Rozany, Poland",1876.01.01
+1876,"Sanok, Poland",1876.01.01
+1929,"Nagyvarad, Romania",1929.01.01
+1929,"Saloniki, Greece",1929.01.01
+1900,"Saloniki, Greece",1900.01.01
+1901,"Saloniki, Greece",1901.01.01
+1878,"Saloniki, Greece",1878.01.01
+1878,"Saloniki, Greece",1878.01.01
+1875,"Saloniki, Greece",1875.01.01
+1904,"Saloniki, Greece",1904.01.01
+1938,"Saloniki, Greece",1938.01.01
+1929,"Bendzin, Poland",1929.01.01
+1895,"Bendzin, Poland",1895.01.01
+1921,"Bendzin, Poland",1921.01.01
+1900,"Bendzin, Poland",1900.01.01
+1900,"Bendzin, Poland",1900.01.01
+1933,"Bendzin, Poland",1933.01.01
+1890,"Bendzin, Poland",1890.01.01
+1916,"Bendzin, Poland",1916.01.01
+1916,"Bendzin, Poland",1916.01.01
+1924,"Bendzin, Poland",1924.01.01
+1925,"Bendzin, Poland",1925.01.01
+1925,"Bendzin, Poland",1925.01.01
+1913,"Bendzin, Poland",1913.01.01
+1907,"Bendzin, Poland",1907.01.01
+1906,"Bendzin, Poland",1906.01.01
+1929,"Olbernhau, Germany",1929.01.01
+1900,"Olbernhau, Germany",1900.01.01
+1929,"Leer, Germany",1929.01.01
+1936,"Będzin, Poland",1936.01.01
+1885,"Będzin, Poland",1885.01.01
+1917,"Będzin, Poland",1917.01.01
+1900,"Będzin, Poland",1900.01.01
+1887,"Będzin, Poland",1887.01.01
+1890,"Będzin, Poland",1890.01.01
+1916,"Będzin, Poland",1916.01.01
+1919,"Będzin, Poland",1919.01.01
+1860,"Będzin, Poland",1860.01.01
+1853,"Będzin, Poland",1853.01.01
+1853,"Będzin, Poland",1853.01.01
+1936,"Jaworzno, Poland",1936.01.01
+1939,"Jaworzno, Poland",1939.01.01
+1936,"Berlin, Germany",1936.01.01
+1930,"Berlin, Germany",1930.01.01
+1895,"Berlin, Germany",1895.01.01
+1895,"Berlin, Germany",1895.01.01
+1895,"Berlin, Germany",1895.01.01
+1910,"Berlin, Germany",1910.01.01
+1910,"Berlin, Germany",1910.01.01
+1870,"Berlin, Germany",1870.01.01
+1870,"Berlin, Germany",1870.01.01
+1900,"Berlin, Germany",1900.01.01
+1900,"Berlin, Germany",1900.01.01
+1900,"Berlin, Germany",1900.01.01
+1889,"Berlin, Germany",1889.01.01
+1889,"Berlin, Germany",1889.01.01
+1889,"Berlin, Germany",1889.01.01
+1881,"Berlin, Germany",1881.01.01
+1892,"Berlin, Germany",1892.01.01
+1908,"Berlin, Germany",1908.01.01
+1908,"Berlin, Germany",1908.01.01
+1903,"Berlin, Germany",1903.01.01
+1903,"Berlin, Germany",1903.01.01
+1905,"Berlin, Germany",1905.01.01
+1905,"Berlin, Germany",1905.01.01
+1887,"Berlin, Germany",1887.01.01
+1882,"Berlin, Germany",1882.01.01
+1902,"Berlin, Germany",1902.01.01
+1925,"Berlin, Germany",1925.01.01
+1868,"Berlin, Germany",1868.01.01
+1884,"Berlin, Germany",1884.01.01
+1879,"Berlin, Germany",1879.01.01
+1907,"Berlin, Germany",1907.01.01
+1877,"Berlin, Germany",1877.01.01
+1880,"Fuerth, Germany",1880.01.01
+1880,"Mlawa, Poland",1880.01.01
+1868,"Mlawa, Poland",1868.01.01
+1880,"Slawkow, Poland",1880.01.01
+1915,"Slawkow, Poland",1915.01.01
+1912,"Slawkow, Poland",1912.01.01
+1880,"Kwaczala, Poland",1880.01.01
+1920,"Kwaczala, Poland",1920.01.01
+1880,"Barchfeld, Germany",1880.01.01
+1880,"Hannover, Germany",1880.01.01
+1916,"Hannover, Germany",1916.01.01
+1880,"Carei, Romania",1880.01.01
+1882,"Carei, Romania",1882.01.01
+1880,"Eisenstadt, Austria",1880.01.01
+1880,"Mannheim, Germany",1880.01.01
+1882,"Mannheim, Germany",1882.01.01
+1877,"Mannheim, Germany",1877.01.01
+1880,"Pisek, Czechoslovakia",1880.01.01
+1880,"Ciechanow, Poland",1880.01.01
+1915,"Ciechanow, Poland",1915.01.01
+1888,"Ciechanow, Poland",1888.01.01
+1900,"Ciechanow, Poland",1900.01.01
+1905,"Ciechanow, Poland",1905.01.01
+1878,"Ciechanow, Poland",1878.01.01
+1880,"Konstanz, Germany",1880.01.01
+1915,"Horyniec, Poland",1915.01.01
+1915,"Antwerpen, Belgium",1915.01.01
+1915,"Antwerpen, Belgium",1915.01.01
+1910,"Antwerpen, Belgium",1910.01.01
+1910,"Antwerpen, Belgium",1910.01.01
+1900,"Antwerpen, Belgium",1900.01.01
+1918,"Antwerpen, Belgium",1918.01.01
+1892,"Antwerpen, Belgium",1892.01.01
+1908,"Antwerpen, Belgium",1908.01.01
+1909,"Antwerpen, Belgium",1909.01.01
+1898,"Antwerpen, Belgium",1898.01.01
+1907,"Antwerpen, Belgium",1907.01.01
+1915,"Ujsoly, Poland",1915.01.01
+1915,"Nowy Targ, Poland",1915.01.01
+1890,"Nowy Targ, Poland",1890.01.01
+1916,"Nowy Targ, Poland",1916.01.01
+1915,"Alsoviso, Romania",1915.01.01
+1915,"Borislaw, Poland",1915.01.01
+1915,"Stopnica, Poland",1915.01.01
+1915,The Netherlands,1915.01.01
+1920,The Netherlands,1920.01.01
+1915,"Kamenets Litovsk, Poland",1915.01.01
+1915,"Budapest, Hungary",1915.01.01
+1915,"Sopockin, Poland",1915.01.01
+1915,"Wloclawek, Poland",1915.01.01
+1883,"Wloclawek, Poland",1883.01.01
+1906,"Wloclawek, Poland",1906.01.01
+1923,"Oświęcim, Poland",1923.01.01
+1931,"Oświęcim, Poland",1931.01.01
+1921,"Oświęcim, Poland",1921.01.01
+1888,"Oświęcim, Poland",1888.01.01
+1888,"Oświęcim, Poland",1888.01.01
+1891,"Oświęcim, Poland",1891.01.01
+1881,"Oświęcim, Poland",1881.01.01
+1878,"Oświęcim, Poland",1878.01.01
+1902,"Oświęcim, Poland",1902.01.01
+1925,"Oświęcim, Poland",1925.01.01
+1884,"Oświęcim, Poland",1884.01.01
+1907,"Oświęcim, Poland",1907.01.01
+1923,"Rzeszow, Poland",1923.01.01
+1921,"Rzeszow, Poland",1921.01.01
+1924,"Rzeszow, Poland",1924.01.01
+1925,"Rzeszow, Poland",1925.01.01
+1930,"Lwow, Poland",1930.01.01
+1910,"Lwow, Poland",1910.01.01
+1933,"Lwow, Poland",1933.01.01
+1891,"Lwow, Poland",1891.01.01
+1890,"Lwow, Poland",1890.01.01
+1930,"Pisztani, Czechoslovakia",1930.01.01
+1930,"Sierpe, Poland",1930.01.01
+1882,"Sierpe, Poland",1882.01.01
+1885,"Piatra Neamt, Romania",1885.01.01
+1895,"Piatra Neamt, Romania",1895.01.01
+1900,"Piatra Neamt, Romania",1900.01.01
+1885,France,1885.01.01
+1885,"Strzemieszyce, Poland",1885.01.01
+1890,"Strzemieszyce, Poland",1890.01.01
+1885,"Pasvalys, Lithuania",1885.01.01
+1885,"Plock, Poland",1885.01.01
+1924,"Plock, Poland",1924.01.01
+1885,"Drobin, Poland",1885.01.01
+1884,"Drobin, Poland",1884.01.01
+1895,"Visoka Mazovietzk, Poland",1895.01.01
+1895,Romania,1895.01.01
+1910,Romania,1910.01.01
+1889,Romania,1889.01.01
+1878,Romania,1878.01.01
+1895,"Sokirnitsa, Czechoslovakia",1895.01.01
+1890,"Sokirnitsa, Czechoslovakia",1890.01.01
+1895,"Hindenburg, Germany",1895.01.01
+1895,"Potok, Poland",1895.01.01
+1895,"Plonsk, Poland",1895.01.01
+1921,"Plonsk, Poland",1921.01.01
+1900,"Plonsk, Poland",1900.01.01
+1889,"Plonsk, Poland",1889.01.01
+1918,"Plonsk, Poland",1918.01.01
+1908,"Plonsk, Poland",1908.01.01
+1895,"Marseille, France",1895.01.01
+1870,"Marseille, France",1870.01.01
+1927,"Marseille, France",1927.01.01
+1895,"Breclav, Czechoslovakia",1895.01.01
+1895,"Iasi, Romania",1895.01.01
+1895,"Podhajce, Poland",1895.01.01
+1895,"Vienna, Austria",1895.01.01
+1892,"Vienna, Austria",1892.01.01
+1909,"Vienna, Austria",1909.01.01
+1882,"Vienna, Austria",1882.01.01
+1894,"Vienna, Austria",1894.01.01
+1860,"Vienna, Austria",1860.01.01
+1895,"Radomishl, Poland",1895.01.01
+1895,"Zgierz, Poland",1895.01.01
+1893,"Zgierz, Poland",1893.01.01
+1920,"Zgierz, Poland",1920.01.01
+1895,"Kevermes, Hungary",1895.01.01
+1895,"Cesky Tesin, Czechoslovakia",1895.01.01
+1898,"Cesky Tesin, Czechoslovakia",1898.01.01
+1910,"Petah Tikva, British Mandate for Palestine",1910.01.01
+1910,"Proszowice, Poland",1910.01.01
+1910,"Ostrowiec, Poland",1910.01.01
+1890,"Ostrowiec, Poland",1890.01.01
+1911,"Ostrowiec, Poland",1911.01.01
+1911,"Ostrowiec, Poland",1911.01.01
+1910,"Kamieniec Litewski, Poland",1910.01.01
+1908,"Kamieniec Litewski, Poland",1908.01.01
+1914,"Kamieniec Litewski, Poland",1914.01.01
+1910,"Janow, Poland",1910.01.01
+1900,"Janow, Poland",1900.01.01
+1912,"Janow, Poland",1912.01.01
+1910,"Paris, France",1910.01.01
+1917,"Paris, France",1917.01.01
+1900,"Paris, France",1900.01.01
+1903,"Paris, France",1903.01.01
+1905,"Paris, France",1905.01.01
+1890,"Paris, France",1890.01.01
+1904,"Paris, France",1904.01.01
+1920,"Paris, France",1920.01.01
+1910,"Chrzanow, Poland",1910.01.01
+1900,"Chrzanow, Poland",1900.01.01
+1893,"Chrzanow, Poland",1893.01.01
+1882,"Chrzanow, Poland",1882.01.01
+1894,"Chrzanow, Poland",1894.01.01
+1910,"Kozieglowy, Poland",1910.01.01
+1912,"Kozieglowy, Poland",1912.01.01
+1931,"Thessaloniki, Greece",1931.01.01
+1933,"Thessaloniki, Greece",1933.01.01
+1917,"Wilno, Poland",1917.01.01
+1917,"Grodziec, Poland",1917.01.01
+1917,"Warsaw, Poland",1917.01.01
+1888,"Warsaw, Poland",1888.01.01
+1935,"Warsaw, Poland",1935.01.01
+1935,"Warsaw, Poland",1935.01.01
+1905,"Warsaw, Poland",1905.01.01
+1901,"Warsaw, Poland",1901.01.01
+1902,"Warsaw, Poland",1902.01.01
+1896,"Warsaw, Poland",1896.01.01
+1906,"Warsaw, Poland",1906.01.01
+1934,"Warsaw, Poland",1934.01.01
+1917,"Ostrovitza, Poland",1917.01.01
+1921,Czechoslovakia,1921.01.01
+1890,Czechoslovakia,1890.01.01
+1912,Czechoslovakia,1912.01.01
+1937,Czechoslovakia,1937.01.01
+1921,"Targu Laposului, Romania",1921.01.01
+1921,"Miskolc, Hungary",1921.01.01
+1890,"Miskolc, Hungary",1890.01.01
+1888,"Auschwitz, Poland",1888.01.01
+1874,"Auschwitz, Poland",1874.01.01
+1890,"Auschwitz, Poland",1890.01.01
+1888,"Sosnovets, Poland",1888.01.01
+1888,"Klobuck, Poland",1888.01.01
+1888,"Klobuck, Poland",1888.01.01
+1888,"Tarnow, Poland",1888.01.01
+1888,"Sosnovice, Poland",1888.01.01
+1890,"Sosnovice, Poland",1890.01.01
+1890,"Sosnovice, Poland",1890.01.01
+1912,"Sosnovice, Poland",1912.01.01
+1888,"Dopshitz, Poland",1888.01.01
+1870,"Neckarzimmern, Germany",1870.01.01
+1870,"Szydlowice, Poland",1870.01.01
+1870,"Troppau, Czechoslovakia",1870.01.01
+1890,"Troppau, Czechoslovakia",1890.01.01
+1902,"Troppau, Czechoslovakia",1902.01.01
+1898,"Troppau, Czechoslovakia",1898.01.01
+1870,"Komotina, Greece",1870.01.01
+1870,"Piestany, Czechoslovakia",1870.01.01
+1870,Belorussia (USSR),1870.01.01
+1890,Belorussia (USSR),1890.01.01
+1870,"Merasice, Czechoslovakia",1870.01.01
+1875,"Merasice, Czechoslovakia",1875.01.01
+1870,"Schwarzwasser, Czechoslovakia",1870.01.01
+1870,"Czechanow, Poland",1870.01.01
+1870,"Bielorusk,",1870.01.01
+1900,"Vasvar, Hungary",1900.01.01
+1933,"Vasvar, Hungary",1933.01.01
+1928,"Vasvar, Hungary",1928.01.01
+1900,"Goding, Austria",1900.01.01
+1900,"Barsa, Romania",1900.01.01
+1900,"Kalisz, Poland",1900.01.01
+1900,"Konstantynów, Poland",1900.01.01
+1902,"Konstantynów, Poland",1902.01.01
+1900,"Nitra, Czechoslovakia",1900.01.01
+1900,"Nitra, Czechoslovakia",1900.01.01
+1875,"Nitra, Czechoslovakia",1875.01.01
+1900,"Craiova, Romania",1900.01.01
+1900,"Craiova, Romania",1900.01.01
+1900,"Undeciphered Place, Hungary",1900.01.01
+1900,"Viena, Austria",1900.01.01
+1900,"Czestochowa, Poland",1900.01.01
+1914,"Czestochowa, Poland",1914.01.01
+1890,"Czestochowa, Poland",1890.01.01
+1909,"Czestochowa, Poland",1909.01.01
+1894,"Czestochowa, Poland",1894.01.01
+1896,"Czestochowa, Poland",1896.01.01
+1896,"Czestochowa, Poland",1896.01.01
+1875,"Czestochowa, Poland",1875.01.01
+1900,"Nowy Sacz, Poland",1900.01.01
+1901,"Nowy Sacz, Poland",1901.01.01
+1896,"Nowy Sacz, Poland",1896.01.01
+1896,"Nowy Sacz, Poland",1896.01.01
+1860,"Nowy Sacz, Poland",1860.01.01
+1900,"Michlowce, Czechoslovakia",1900.01.01
+1900,"Ozorkow, Poland",1900.01.01
+1932,"Ozorkow, Poland",1932.01.01
+1900,"Tatranska Lomnica, Czechoslovakia",1900.01.01
+1900,"Ojpest, Hungary",1900.01.01
+1916,"Ojpest, Hungary",1916.01.01
+1900,"Dobzin, Poland",1900.01.01
+1902,"Dobzin, Poland",1902.01.01
+1884,"Dobzin, Poland",1884.01.01
+1904,"Dobzin, Poland",1904.01.01
+1889,"Harsznica, Poland",1889.01.01
+1887,"Harsznica, Poland",1887.01.01
+1889,"Kroki, Lithuania",1889.01.01
+1889,"Bonyhad, Hungary",1889.01.01
+1889,"Lodzh, Poland",1889.01.01
+1879,"Lodzh, Poland",1879.01.01
+1889,"Radomsko, Poland",1889.01.01
+1918,Germany,1918.01.01
+1918,Germany,1918.01.01
+1890,Germany,1890.01.01
+1918,"Wieruszow, Poland",1918.01.01
+1920,"Wieruszow, Poland",1920.01.01
+1918,"Pabianice, Poland",1918.01.01
+1924,"Pabianice, Poland",1924.01.01
+1920,"Pabianice, Poland",1920.01.01
+1886,"Pabianice, Poland",1886.01.01
+1918,"Cechnow, Poland",1918.01.01
+1935,"Lewow, Poland",1935.01.01
+1935,"Carlibaba, Romania",1935.01.01
+1908,"Carlibaba, Romania",1908.01.01
+1937,"Carlibaba, Romania",1937.01.01
+1933,"Wisoka Mazowieck, Poland",1933.01.01
+1933,"Sosnowice, Poland",1933.01.01
+1928,"Levov, Poland",1928.01.01
+1928,"Hogyesz, Hungary",1928.01.01
+1928,"Sierpc, Poland",1928.01.01
+1908,"Sierpc, Poland",1908.01.01
+1906,"Sierpc, Poland",1906.01.01
+1928,"Tokaj, Hungary",1928.01.01
+1891,"Mielec, Poland",1891.01.01
+1891,"Prague, Czechoslovakia",1891.01.01
+1881,"Prague, Czechoslovakia",1881.01.01
+1893,"Prague, Czechoslovakia",1893.01.01
+1906,"Prague, Czechoslovakia",1906.01.01
+1891,"Trzebinia, Poland",1891.01.01
+1898,"Trzebinia, Poland",1898.01.01
+1891,"Salgotarjan, Hungary",1891.01.01
+1890,"Salgotarjan, Hungary",1890.01.01
+1892,"Nurnberg, Germany",1892.01.01
+1892,"Zdunska Wola, Poland",1892.01.01
+1892,"Bedevla, Czechoslovakia",1892.01.01
+1892,"Bedevla, Czechoslovakia",1892.01.01
+1892,"Łomża, Poland",1892.01.01
+1890,"Łomża, Poland",1890.01.01
+1920,"Łomża, Poland",1920.01.01
+1892,"Plaszow, Poland",1892.01.01
+1892,"Tachovo, Czechoslovakia",1892.01.01
+1892,"Dynow, Poland",1892.01.01
+1892,"Nowemiasto, Poland",1892.01.01
+1892,"Banfy Hunyad, Romania",1892.01.01
+1908,"Varsha, Poland",1908.01.01
+1925,"Varsha, Poland",1925.01.01
+1908,"Chszanow, Poland",1908.01.01
+1908,"Biala Podlaska, Poland",1908.01.01
+1903,"Biala Podlaska, Poland",1903.01.01
+1905,"Biala Podlaska, Poland",1905.01.01
+1901,"Biala Podlaska, Poland",1901.01.01
+1908,"Paleniec, Poland",1908.01.01
+1893,"Miroslav, Czechoslovakia",1893.01.01
+1893,"Osztrowyec, Poland",1893.01.01
+1893,"Kety, Poland",1893.01.01
+1894,"Kety, Poland",1894.01.01
+1894,"Kety, Poland",1894.01.01
+1896,"Kety, Poland",1896.01.01
+1893,"Rostock, Germany",1893.01.01
+1893,"Blatna, Czechoslovakia",1893.01.01
+1893,"Mainz, Germany",1893.01.01
+1893,"Novi Sad, Yugoslavia",1893.01.01
+1903,"Limanova, Poland",1903.01.01
+1903,"Limanova, Poland",1903.01.01
+1903,"Dombrowa Gornicza, Poland",1903.01.01
+1903,Austria,1903.01.01
+1896,Austria,1896.01.01
+1914,"Bialystok, Poland",1914.01.01
+1890,"Bialystok, Poland",1890.01.01
+1916,"Bialystok, Poland",1916.01.01
+1911,"Bialystok, Poland",1911.01.01
+1913,"Bialystok, Poland",1913.01.01
+1886,"Bialystok, Poland",1886.01.01
+1914,"Grojec, Poland",1914.01.01
+1914,"Novetar, Poland",1914.01.01
+1914,"Sokolka, Poland",1914.01.01
+1914,"Michalovce, Czechoslovakia",1914.01.01
+1890,"Michalovce, Czechoslovakia",1890.01.01
+1905,"Viseul de Mizloc, Romania",1905.01.01
+1905,"Magdeburg, Germany",1905.01.01
+1905,"Czestochow, Poland",1905.01.01
+1905,"Kelz, Poland",1905.01.01
+1920,"Kelz, Poland",1920.01.01
+1905,"Odorhei, Romania",1905.01.01
+1901,"Hust,",1901.01.01
+1901,"Viznice, Czechoslovakia",1901.01.01
+1887,"Mezocsat, Hungary",1887.01.01
+1887,"Ostrava, Czechoslovakia",1887.01.01
+1886,"Ostrava, Czechoslovakia",1886.01.01
+1887,"Linci, Czechoslovakia",1887.01.01
+1890,"Karlsbad, Czechoslovakia",1890.01.01
+1902,"Karlsbad, Czechoslovakia",1902.01.01
+1902,"Karlsbad, Czechoslovakia",1902.01.01
+1899,"Karlsbad, Czechoslovakia",1899.01.01
+1890,"Grodno, Poland",1890.01.01
+1890,"Ryki, Poland",1890.01.01
+1890,"St.Wendel, Germany",1890.01.01
+1890,"Szrensk, Poland",1890.01.01
+1894,"Szrensk, Poland",1894.01.01
+1890,"Zawiercie, Poland",1890.01.01
+1890,"Gablonz, Czechoslovakia",1890.01.01
+1878,"Dmenin, Poland",1878.01.01
+1878,"Banska Stiavnica, Czechoslovakia",1878.01.01
+1878,"Kolomea, Poland",1878.01.01
+1920,"Kolomea, Poland",1920.01.01
+1878,"Dortmund, Germany",1878.01.01
+1878,"Wertheim, Germany",1878.01.01
+1883,"Wertheim, Germany",1883.01.01
+1909,"Maków, Poland",1909.01.01
+1911,"Maków, Poland",1911.01.01
+1909,"Strizov, Poland",1909.01.01
+1912,"Dragabartfalva, Czechoslovakia",1912.01.01
+1912,"Transnistria, Ukraine (USSR)",1912.01.01
+1912,"Opava, Czechoslovakia",1912.01.01
+1912,"Varsovia, Poland",1912.01.01
+1882,"Pabjanice, Poland",1882.01.01
+1882,"Karlsruhe, Germany",1882.01.01
+1884,"Karlsruhe, Germany",1884.01.01
+1882,"Praha, Czechoslovakia",1882.01.01
+1867,"Satmar, Romania",1867.01.01
+1867,"Dankowice, Poland",1867.01.01
+1894,"Rozavlea, Romania",1894.01.01
+1894,"Tachau, Czechoslovakia",1894.01.01
+1916,"Galac, Romania",1916.01.01
+1916,"Koln, Germany",1916.01.01
+1916,"Warta, Poland",1916.01.01
+1902,"Grosswardein, Romania",1902.01.01
+1902,"Recklinghausen, Germany",1902.01.01
+1902,"Suceava, Romania",1902.01.01
+1902,"Novy Sad, Yugoslavia",1902.01.01
+1902,"Dzialoszyce, Poland",1902.01.01
+1883,"Gaya, Czechoslovakia",1883.01.01
+1924,"Milevsko, Czechoslovakia",1924.01.01
+1924,"Berlin Charlottenburg, Germany",1924.01.01
+1932,"Munkacs, Czechoslovakia",1932.01.01
+1932,"Sajoszentpeter, Hungary",1932.01.01
+1932,"Sierpecz, Poland",1932.01.01
+1911,"Pilica, Poland",1911.01.01
+1896,"Tomaszow Mazowiecki, Poland",1896.01.01
+1896,"Strachowice, Poland",1896.01.01
+1896,"Komarno, Czechoslovakia",1896.01.01
+1898,"Feldesz, Hungary",1898.01.01
+1898,"Hamburg, Germany",1898.01.01
+1898,"Salonique, Greece",1898.01.01
+1898,"Uerdingen, Germany",1898.01.01
+1898,"Myszkow, Poland",1898.01.01
+1875,"Muszyna, Poland",1875.01.01
+1875,"Frankfurt, Germany",1875.01.01
+1875,"Lübbecke, Germany",1875.01.01
+1875,"Kszanov, Poland",1875.01.01
+1899,"Hainowka, Poland",1899.01.01
+1899,"Kabina, Poland",1899.01.01
+1899,"Solyva, Czechoslovakia",1899.01.01
+1899,"Kelce, Poland",1899.01.01
+1863,"Reichenberg, Czechoslovakia",1863.01.01
+1925,"Marghita, Romania",1925.01.01
+1913,"Bilky, Czechoslovakia",1913.01.01
+1913,"Ostrowiec Kielecki, Poland",1913.01.01
+1913,"Janowo, Poland",1913.01.01
+1913,"Szinervaralja, Romania",1913.01.01
+1884,"Trier, Germany",1884.01.01
+1884,"Naraiv, Poland",1884.01.01
+1904,"Marosvasarhely, Romania",1904.01.01
+1904,"Horvat, Romania",1904.01.01
+1904,"Bruxelles, Belgium",1904.01.01
+1879,"Miedzyrzec, Poland",1879.01.01
+1879,"Sommerau, Germany",1879.01.01
+1886,"Sommerau, Germany",1886.01.01
+1866,"Bilitz, Poland",1866.01.01
+1919,"Wysokie Mazowieckie, Poland",1919.01.01
+1919,"Bolimov, Poland",1919.01.01
+1907,"Morva, Czechoslovakia",1907.01.01
+1906,Lithuania,1906.01.01
+1906,"Essen, Germany",1906.01.01
+1906,"Bystry Nizni, Czechoslovakia",1906.01.01
+1877,"Oberbieber, Germany",1877.01.01
+1871,"Oberbieber, Germany",1871.01.01
+1920,"Warka, Poland",1920.01.01
+1920,"Dubno, Poland",1920.01.01
+1920,"Zakynthos, Greece",1920.01.01
+1920,"Mukacevo, Czechoslovakia",1920.01.01
+1938,"Ladamoc, Czechoslovakia",1938.01.01
+1939,"Velki Bockov, Czechoslovakia",1939.01.01
+1886,"Hunyad, Romania",1886.01.01
+1886,"Emberfo, Romania",1886.01.01
+1886,"Munich, Germany",1886.01.01
+1886,"Serokomla, Poland",1886.01.01
+1937,"Krolewska Huta, Poland",1937.01.01
+1864,"Sighet, Romania",1864.01.01
+1862,"Sighet, Romania",1862.01.01
+1864,"Breisach, Germany",1864.01.01
+1934,"Sevlus, Czechoslovakia",1934.01.01
+1934,"Teresva, Czechoslovakia",1934.01.01
