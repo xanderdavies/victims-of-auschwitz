@@ -1,9 +1,9 @@
 # Victims of Auschwitz — Read Me
 
 The files attached can be broken down into four categories:
-1. The *html, css,* and *gif* files. These are used in the website, with index.html, 1940.html, 1941.html, 1942.html, 1943.html, 1944.html, and 1945.html being very simple pages styled by styles.css. Gif files correspond to each page, assigned in the styles.css page as the corresponding page's background image. Each page also has a secondary background of a loading gif, to serve as a loading icon before the background image comes in and convers it up.
-2. *YadScrape.ipynb*, *chromedriver,* and *scraped*. The first two files are used to scrape data from yvng.yadvashem.org. The chromedriver is used in tandem with the selenium python extension. The third is a folder with scraped data stroed in a csv, as well as a cleaned folder with only non-null entries.
-3. *qgis-data-and-background*.  This folder contains all necessary files to implement the mapping in 1940, 1941, 1942, 1943, 1944, and 1945. Note that it does not include the merging of these years, which must be implemented using the merge layers in the vector menu.
+1. The *html*, *css*, and *gif* files stored in */website*. These are used in the website, with index.html, 1940.html, 1941.html, 1942.html, 1943.html, 1944.html, and 1945.html being very simple pages styled by styles.css. Gif files correspond to each page, assigned in the styles.css page as the corresponding page's background image. Each page also has a secondary background of a loading gif, to serve as a loading icon before the background image comes in and convers it up.
+2. *YadScrape.ipynb*, *chromedriver*, and *scraped*. The first two files are used to scrape data from yvng.yadvashem.org. The chromedriver is used in tandem with the selenium python extension. The third is a folder with scraped data stored in a csv, as well as a cleaned folder with only non-null entries.
+3. *qgis-data-and-background*. This folder contains all necessary files to implement the mapping in 1940, 1941, 1942, 1943, 1944, and 1945. Note that it does not include the merging of these years, which must be implemented using the merge layers in the vector menu.
 4. *DESIGN.md* and *README.md,* which serve as the projects documentation.
 
 As outlined in DESIGN.md, implementing the project entails three steps. First, collecting data, second cleaning the data, and third representing the data. 
