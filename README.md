@@ -1,6 +1,7 @@
 # Victims of Auschwitz — Read Me
 
 ***To view the project, [go here.](https://xanderdavies.github.io/victims-of-auschwitz/website/)***
+***To view the documentation, [go here.](https://github.com/xanderdavies/victims-of-auschwitz)***
 
 The files attached can be broken down into four categories:
 1. The *html*, *css*, and *gif* files stored in */website*. These are used in the website, with index.html, 1940.html, 1941.html, 1942.html, 1943.html, 1944.html, and 1945.html being very simple pages styled by styles.css. Gif files correspond to each page, assigned in the styles.css page as the corresponding page's background image. Each page also has a secondary background of a loading gif, to serve as a loading icon before the background image comes in and convers it up.
