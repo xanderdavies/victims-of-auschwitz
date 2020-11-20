@@ -1,7 +1,7 @@
 # Victims of Auschwitz — Read Me
 
 ***TO VIEW THE PROJECT, [GO HERE.](https://xanderdavies.github.io/victims-of-auschwitz/website/)***
-***TO VIEW THE DOCUMENTATION, [GO HERE.](https://github.com/xanderdavies/victims-of-auschwitz)***
+***TO ACCESS THE DOCUMENTATION, [GO HERE.](https://github.com/xanderdavies/victims-of-auschwitz)***
 
 Between 1941 and 1945, the Nazis and their collaborators murdered six million Jews. Despite the Central Database of Shoah Victims’ Names containing the names and basic biographical data for almost 4.8 million of these victims, very little graphical analysis has been performed on the data. For this project, I constructed seven animated maps to visually represent a portion of the total data, namely the lives of Auschwitz victims. The maps contain hundreds of thousands of blue dots against a backdrop of the map of Europe. Each dot is the life of a specific Jew murdered in Auschwitz. A dot appears in the year of its corresponding victim’s birth and in the city of their pre-war location, and disappears in the year of the victim’s death. To handle overlapping dots (corresponding to victims with the same pre-war location), dots with the same coordinates were organized in concentric circles surrounding their location. One map (displayed on the website’s homepage) shows all of the data. Six maps break down the data by year of death, showing, for example, only victims who died in Auschwitz in 1942. 
 
